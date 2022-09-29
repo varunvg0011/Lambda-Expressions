@@ -1,0 +1,6 @@
+F:\CODING\CSharp\Lambda expression exercise\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+F:\CODING\CSharp\Lambda expression exercise\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\CODING\CSharp\Lambda expression exercise\BL\bin\Debug\BL.dll
+F:\CODING\CSharp\Lambda expression exercise\BL\bin\Debug\BL.pdb
+F:\CODING\CSharp\Lambda expression exercise\BL\obj\Debug\BL.dll
+F:\CODING\CSharp\Lambda expression exercise\BL\obj\Debug\BL.pdb

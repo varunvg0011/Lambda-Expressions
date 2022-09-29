@@ -1,0 +1,11 @@
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.csproj.SuggestedBindingRedirects.cache
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+F:\CODING\CSharp\Lambda expression exercise\UIL\bin\Debug\UIL.exe.config
+F:\CODING\CSharp\Lambda expression exercise\UIL\bin\Debug\UIL.exe
+F:\CODING\CSharp\Lambda expression exercise\UIL\bin\Debug\UIL.pdb
+F:\CODING\CSharp\Lambda expression exercise\UIL\bin\Debug\BL.dll
+F:\CODING\CSharp\Lambda expression exercise\UIL\bin\Debug\BL.pdb
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.csproj.CopyComplete
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.exe
+F:\CODING\CSharp\Lambda expression exercise\UIL\obj\Debug\UIL.pdb
